@@ -1,1 +1,3 @@
 test: 我是配置中心配置信息
+demo:
+  service-name: myname
